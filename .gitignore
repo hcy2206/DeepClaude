@@ -16,3 +16,6 @@ wheels/
 
 # Windsurf
 .windsurfrules
+
+# IDEs
+.idea
